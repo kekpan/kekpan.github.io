@@ -1,0 +1,52 @@
+{"frames": {
+
+"back_land.png":
+{
+	"frame": {"x":0,"y":0,"w":1024,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":576},
+	"sourceSize": {"w":1024,"h":576}
+},
+"battleground.png":
+{
+	"frame": {"x":1024,"y":0,"w":1024,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":576},
+	"sourceSize": {"w":1024,"h":576}
+},
+"front_decor.png":
+{
+	"frame": {"x":0,"y":576,"w":1024,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":576},
+	"sourceSize": {"w":1024,"h":576}
+},
+"gem_1.png":
+{
+	"frame": {"x":1024,"y":576,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"ground_decor.png":
+{
+	"frame": {"x":0,"y":1152,"w":1024,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":576},
+	"sourceSize": {"w":1024,"h":576}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lvl_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1728},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:063164c30238b54dc144571b0e7381d6:cce16771539594d5c95351df30c35d99:7b91a8826a9bc3439ffa7d4d7997cca3$"
+}
+}
